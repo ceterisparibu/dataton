@@ -1,2 +1,2 @@
 # dataton
-Repocitorio 
+Repositorio, equipo: Ceteris paribus  
